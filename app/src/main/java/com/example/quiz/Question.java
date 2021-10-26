@@ -14,4 +14,12 @@ public class Question {
         this.questionId = questionId;
         this.trueAnswer = trueAnswer;
     }
+
+    public int getQuestionId() {
+        return questionId;
+    }
+
+    public boolean isTrueAnswer() {
+        return trueAnswer;
+    }
 }

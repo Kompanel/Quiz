@@ -3,6 +3,8 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="show_correct_answer_button">Pokaż podpowiedź</string>
     <string name="q_liczba">Liczba 4 jest większa od liczby 5</string>
     <string name="q_wielkosc">słoń jest większy od mrówki</string>
     <string name="q_rozmiar">biedronka jest większa od słonia</string>
@@ -11,4 +13,5 @@
     <string name="q_matematyka">2+2=5</string>
     <string name="correct_answer">Poprawna Odpowiedź</string>
     <string name="incorrect_answer">Fałszywa Odpowiedź</string>
+    <string name="answer_was_show">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>
